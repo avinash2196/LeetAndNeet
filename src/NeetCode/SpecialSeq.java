@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class SpecialSeq {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package NeetCode;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -24,8 +26,8 @@ class LRUCache {
 }
 
 /**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache obj = new LRUCache(capacity);
+ * Your NeetCode.LRUCache object will be instantiated and called as such:
+ * NeetCode.LRUCache obj = new NeetCode.LRUCache(capacity);
  * int param_1 = obj.get(key);
  * obj.put(key,value);
  */

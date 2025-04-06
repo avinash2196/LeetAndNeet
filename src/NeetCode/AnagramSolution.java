@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class AnagramSolution {
 
     public static void main(String[] args){

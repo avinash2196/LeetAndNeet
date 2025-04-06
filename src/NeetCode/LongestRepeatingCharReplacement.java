@@ -1,3 +1,5 @@
+package NeetCode;
+
 import java.util.HashSet;
 
 public class LongestRepeatingCharReplacement {

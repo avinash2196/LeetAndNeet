@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class CountIsland {
         int rows;
         int cols;
